@@ -1,0 +1,26 @@
+﻿  Menu.cpp
+c:\users\sharg\source\repos\курсовая\курсовая\myinfo.h(23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\sharg\source\repos\курсовая\курсовая\myinfo.h(30): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\sharg\source\repos\курсовая\курсовая\myinfo.h(33): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\sharg\source\repos\курсовая\курсовая\myinfo.h(37): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\sharg\source\repos\курсовая\курсовая\myinfo.h(40): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\sharg\source\repos\курсовая\курсовая\myinfo.h(44): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\sharg\source\repos\курсовая\курсовая\myinfo.h(48): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\sharg\source\repos\курсовая\курсовая\menu.cpp(29): warning C4996: 'sf::Text::setColor': объявлен deprecate
+  c:\program files\sfml\include\sfml\graphics\text.hpp(177): note:  см. объявление "sf::Text::setColor"
+c:\users\sharg\source\repos\курсовая\курсовая\menu.cpp(82): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  Компиляция...
+  MyInfo.cpp
+c:\users\sharg\source\repos\курсовая\курсовая\myinfo.h(23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\sharg\source\repos\курсовая\курсовая\myinfo.h(30): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\sharg\source\repos\курсовая\курсовая\myinfo.h(33): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\sharg\source\repos\курсовая\курсовая\myinfo.h(37): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\sharg\source\repos\курсовая\курсовая\myinfo.h(40): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\sharg\source\repos\курсовая\курсовая\myinfo.h(44): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\sharg\source\repos\курсовая\курсовая\myinfo.h(48): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\sharg\source\repos\курсовая\курсовая\myinfo.cpp(26): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\sharg\source\repos\курсовая\курсовая\myinfo.cpp(10): warning C4996: 'sf::Text::setColor': объявлен deprecate
+  c:\program files\sfml\include\sfml\graphics\text.hpp(177): note:  см. объявление "sf::Text::setColor"
+  Создание кода...
+  Курсовая.vcxproj -> C:\Users\Sharg\source\repos\Курсовая\x64\Debug\Курсовая.exe
